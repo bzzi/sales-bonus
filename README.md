@@ -1,3 +1,5 @@
+https://github.com/bzzi/sales-bonus/tree/main
+
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
